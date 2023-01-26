@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ralfs66
+- https://www.linkedin.com/in/ralfs-batarags/
 
 <!---
 ralfs66/ralfs66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
